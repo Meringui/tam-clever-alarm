@@ -1,0 +1,1 @@
+This application allows to users to set alarm dependently on calendar events. Extra feature is ringtone handler, which turns off ringing if an event has busy status.
